@@ -10,17 +10,19 @@ body {
   background-color: #fafafa;
   color: #212121;
   line-height: 1.5;
-
   background-image: radial-gradient(#dae0e2a1 20%, #f7eeee 20%);
   background-position: 0 0;
   background-size: 10px 10px;
+  background-color: burlywood;
   height: 200px;
   width: 100%;
 }
 
 #search-box {
   font: inherit;
-  padding: 8px;
+  padding: 5px;
+  margin-left: 10px;
+  margin-top: 10px;
   max-width: 320px;
   margin-bottom: 16px;
 }
